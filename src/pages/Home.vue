@@ -3,9 +3,16 @@
 </script>
 
 <template>
-  hello
+  <header class="header">
+    <div class="left">
+      菜单
+    </div>
+    <div>
+      搜索
+    </div>
+  </header>
 </template>
 
-<style scoped>
+<style scoped lang="less">
 
 </style>

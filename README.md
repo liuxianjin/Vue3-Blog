@@ -1,4 +1,4 @@
-# 这是一个复习Vue3 和 Ts 的个人项目
+# Vue3 Ts blog 
 ```sh
 cd vue3-blog
 ```
